@@ -1,0 +1,14 @@
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.exe
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.deps.json
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.runtimeconfig.json
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.runtimeconfig.dev.json
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.dll
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\bin\Debug\netcoreapp3.1\Assembly1.pdb
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.csproj.AssemblyReference.cache
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.AssemblyInfoInputs.cache
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.AssemblyInfo.cs
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.csproj.CoreCompileInputs.cache
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.dll
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.pdb
+C:\Users\Saad Ur Rehman\source\repos\AccessModifiers\Assembly1\obj\Debug\netcoreapp3.1\Assembly1.genruntimeconfig.cache
