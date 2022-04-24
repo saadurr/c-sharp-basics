@@ -1,0 +1,14 @@
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.AssemblyReference.cache
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+D:\root-D\GitHub\c-sharp-basics\04-inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
