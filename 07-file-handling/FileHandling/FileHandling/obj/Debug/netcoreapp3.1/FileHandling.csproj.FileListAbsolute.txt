@@ -1,0 +1,14 @@
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.exe
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.deps.json
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.json
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.dev.json
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.dll
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.pdb
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.AssemblyReference.cache
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfoInputs.cache
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfo.cs
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CoreCompileInputs.cache
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.dll
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.pdb
+D:\root-D\GitHub\c-sharp-basics\07-file-handling\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.genruntimeconfig.cache
