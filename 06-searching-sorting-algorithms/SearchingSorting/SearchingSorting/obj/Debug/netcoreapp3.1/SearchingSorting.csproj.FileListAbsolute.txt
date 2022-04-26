@@ -1,0 +1,14 @@
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\bin\Debug\netcoreapp3.1\SearchingSorting.exe
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\bin\Debug\netcoreapp3.1\SearchingSorting.deps.json
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\bin\Debug\netcoreapp3.1\SearchingSorting.runtimeconfig.json
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\bin\Debug\netcoreapp3.1\SearchingSorting.runtimeconfig.dev.json
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\bin\Debug\netcoreapp3.1\SearchingSorting.dll
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\bin\Debug\netcoreapp3.1\SearchingSorting.pdb
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.csproj.AssemblyReference.cache
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.AssemblyInfoInputs.cache
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.AssemblyInfo.cs
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.csproj.CoreCompileInputs.cache
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.dll
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.pdb
+D:\root-D\GitHub\c-sharp-basics\06-searching-sorting-algorithms\SearchingSorting\SearchingSorting\obj\Debug\netcoreapp3.1\SearchingSorting.genruntimeconfig.cache
