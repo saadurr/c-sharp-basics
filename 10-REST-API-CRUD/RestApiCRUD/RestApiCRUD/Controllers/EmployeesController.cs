@@ -57,6 +57,7 @@ namespace RestApiCRUD.Controllers
             var emp = _employeeData.GetEmployee(id);
             if (emp != null)
             {
+                employee.ID = emp.ID;
                 return Ok(_employeeData.UpdateEmployee(employee));
             }
             return NotFound();

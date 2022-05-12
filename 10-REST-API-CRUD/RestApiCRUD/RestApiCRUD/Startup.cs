@@ -12,6 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using RestApiCRUD.Models;
 using RestApiCRUD.EmployeeData;
+using Microsoft.EntityFrameworkCore;
 
 namespace RestApiCRUD
 {
@@ -28,7 +29,11 @@ namespace RestApiCRUD
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSingleton<IEmployeeData, MockEmployeeData>();
+
+            services.AddDbContextPool<EmployeeContext>(options => options.UseSqlServer(Configuration.GetConnectionString("EmployeeContextConnectionString")));
+
+            services.AddScoped<IEmployeeData, SqlEmployeeData>();
+            //services.AddSingleton<IEmployeeData, MockEmployeeData>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
