@@ -10,6 +10,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using RestApiCRUD.Models;
+using RestApiCRUD.EmployeeData;
 
 namespace RestApiCRUD
 {
@@ -26,6 +28,7 @@ namespace RestApiCRUD
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSingleton<IEmployeeData, MockEmployeeData>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
