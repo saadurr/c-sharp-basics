@@ -1,0 +1,14 @@
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.AssemblyReference.cache
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+D:\root-D\GitHub\c-sharp-basics\09-data-structures\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
