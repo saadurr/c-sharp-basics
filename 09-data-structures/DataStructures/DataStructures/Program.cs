@@ -10,7 +10,10 @@ namespace DataStructures
             //ArrayList.TestLists();
             //ArrayList.TestStrings();
 
-            LinkedListTest.Test();
+            //LinkedListTest.Test();
+
+            //StackTest.TestStackWithList();
+            StackTest.TestStackWithArray();
         }
     }
 }
