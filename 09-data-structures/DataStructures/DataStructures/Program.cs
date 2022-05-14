@@ -6,7 +6,9 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            ArrayList.TestArrays();
+            //ArrayList.TestArrays();
+            ArrayList.TestLists();
+            //ArrayList.TestStrings();
         }
     }
 }
