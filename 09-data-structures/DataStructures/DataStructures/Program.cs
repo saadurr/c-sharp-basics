@@ -7,8 +7,10 @@ namespace DataStructures
         static void Main(string[] args)
         {
             //ArrayList.TestArrays();
-            ArrayList.TestLists();
+            //ArrayList.TestLists();
             //ArrayList.TestStrings();
+
+            LinkedListTest.Test();
         }
     }
 }
