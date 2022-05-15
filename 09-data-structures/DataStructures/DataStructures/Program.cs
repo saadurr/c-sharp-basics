@@ -13,7 +13,10 @@ namespace DataStructures
             //LinkedListTest.Test();
 
             //StackTest.TestStackWithList();
-            StackTest.TestStackWithArray();
+            //StackTest.TestStackWithArray();
+
+            //QueueTest.TestQueueWithList();
+            //QueueTest.TestQueueWithArray();
         }
     }
 }
