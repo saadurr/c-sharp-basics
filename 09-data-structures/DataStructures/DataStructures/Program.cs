@@ -19,6 +19,8 @@ namespace DataStructures
             //QueueTest.TestQueueWithArray();
 
             //HashtableTest.Test();
+
+            BinaryTreeTest.Test();
         }
     }
 }
