@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\root-D\\GitHub\\c-sharp-basics\\10-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj": {}
+    "D:\\root-D\\GitHub\\c-sharp-basics\\11-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj": {}
   },
   "projects": {
-    "D:\\root-D\\GitHub\\c-sharp-basics\\10-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj": {
+    "D:\\root-D\\GitHub\\c-sharp-basics\\11-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\root-D\\GitHub\\c-sharp-basics\\10-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj",
+        "projectUniqueName": "D:\\root-D\\GitHub\\c-sharp-basics\\11-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj",
         "projectName": "RestApiCRUD",
-        "projectPath": "D:\\root-D\\GitHub\\c-sharp-basics\\10-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj",
+        "projectPath": "D:\\root-D\\GitHub\\c-sharp-basics\\11-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\RestApiCRUD.csproj",
         "packagesPath": "C:\\Users\\Saad Ur Rehman\\.nuget\\packages\\",
-        "outputPath": "D:\\root-D\\GitHub\\c-sharp-basics\\10-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\obj\\",
+        "outputPath": "D:\\root-D\\GitHub\\c-sharp-basics\\11-REST-API-CRUD\\RestApiCRUD\\RestApiCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saad Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",

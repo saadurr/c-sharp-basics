@@ -1,0 +1,14 @@
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.exe
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.deps.json
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.runtimeconfig.json
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.runtimeconfig.dev.json
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.dll
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\bin\Debug\netcoreapp3.1\AlgoProblems.pdb
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.csproj.AssemblyReference.cache
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.AssemblyInfoInputs.cache
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.AssemblyInfo.cs
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.csproj.CoreCompileInputs.cache
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.dll
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.pdb
+D:\root-D\GitHub\c-sharp-basics\12-Algorithms\AlgoProblems\AlgoProblems\obj\Debug\netcoreapp3.1\AlgoProblems.genruntimeconfig.cache

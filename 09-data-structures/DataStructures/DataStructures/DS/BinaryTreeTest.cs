@@ -41,6 +41,12 @@ namespace DataStructures
 
             Console.WriteLine("\n\nTesting In-Order Traversal");
             bTree.TraverseInOrder(testTree);
+
+            Console.WriteLine("\n\nTesting Bread First Traversal");
+            bTree.TraverseLevelOrder(testTree);
+
+            Console.WriteLine("\n\nTesting BFS Traversal with Queue:");
+            bTree.TraverseOrderQueue(testTree);
         }
     }
 }

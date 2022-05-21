@@ -111,5 +111,64 @@ namespace DataStructures
             // Right
             TraverseInOrder(node.Right, level + 1);
         }
+
+        public void TraverseLevelOrder(TreeNode node)
+        {
+            if (null == node) return;
+
+            int h = GetHeight(node);
+
+            for (int i = 0; i <= h; i++)
+                PrintLevel(node, i);
+        }
+
+        private void PrintLevel(TreeNode node, int level)
+        {
+            if (null == node)
+                return;
+            if (level == 1)
+            {
+                Console.WriteLine($"-{node.Value}");
+            }
+            else if (level > 1)
+            {
+                PrintLevel(node.Left, level - 1);
+                PrintLevel(node.Right, level - 1);
+            }
+
+            
+        }
+
+        private int GetHeight(TreeNode t)
+        {
+            if (null == t) return 0;
+
+            int leftHeight = GetHeight(t.Left);
+            int rightHeight = GetHeight(t.Right);
+
+            if (leftHeight > rightHeight)
+                return leftHeight + 1;
+            return rightHeight + 1;
+        }
+
+        public void TraverseOrderQueue(TreeNode t)
+        {
+            Queue<TreeNode> q = new Queue<TreeNode>();
+
+            if (null == t) return;
+
+            // Adding first root node
+            q.Enqueue(t);
+            while (q.Count != 0)
+            {
+                TreeNode currNode = q.Dequeue();
+                Console.WriteLine(currNode.Value);
+                
+                if (null != currNode.Left)
+                    q.Enqueue(currNode.Left);
+                if (null != currNode.Right)
+                    q.Enqueue(currNode.Right);
+            }
+        }
     }
 }

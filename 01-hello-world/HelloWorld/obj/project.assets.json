@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saad Ur Rehman\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\root-D\\GitHub\\c-sharp-basics\\01-hello-world\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "D:\\root-D\\GitHub\\c-sharp-basics\\01-hello-world\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Saad Ur Rehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "D:\\root-D\\GitHub\\c-sharp-basics\\01-hello-world\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saad Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",

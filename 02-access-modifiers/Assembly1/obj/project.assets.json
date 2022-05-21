@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly1\\Assembly1.csproj",
+      "projectUniqueName": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly1\\Assembly1.csproj",
       "projectName": "Assembly1",
-      "projectPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly1\\Assembly1.csproj",
+      "projectPath": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly1\\Assembly1.csproj",
       "packagesPath": "C:\\Users\\Saad Ur Rehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly1\\obj\\",
+      "outputPath": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saad Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",

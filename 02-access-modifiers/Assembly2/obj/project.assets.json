@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly2\\Assembly2.csproj",
+      "projectUniqueName": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly2\\Assembly2.csproj",
       "projectName": "Assembly2",
-      "projectPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly2\\Assembly2.csproj",
+      "projectPath": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly2\\Assembly2.csproj",
       "packagesPath": "C:\\Users\\Saad Ur Rehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly2\\obj\\",
+      "outputPath": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saad Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly1\\Assembly1.csproj": {
-              "projectPath": "C:\\Users\\Saad Ur Rehman\\source\\repos\\AccessModifiers\\Assembly1\\Assembly1.csproj"
+            "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly1\\Assembly1.csproj": {
+              "projectPath": "D:\\root-D\\GitHub\\c-sharp-basics\\02-access-modifiers\\Assembly1\\Assembly1.csproj"
             }
           }
         }

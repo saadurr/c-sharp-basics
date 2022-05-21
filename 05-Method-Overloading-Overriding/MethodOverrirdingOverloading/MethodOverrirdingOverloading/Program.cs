@@ -104,7 +104,7 @@ namespace MethodOverrirdingOverloading
             Car c1 = new Car();
             Console.WriteLine("Rental Rate for Car Object is:{0} \n\n", c1.getRentalRate());
 
-            //If the method is not overriden and marked as virtual, it will call the function from base class.
+            //If the method is not overriden and not marked as virtual, it will call the function from base class.
             Vehicle v2 = new Car();
             Console.WriteLine("Rental Rate for Vehicle Object is:{0} \n\n", v2.getRentalRate());
 

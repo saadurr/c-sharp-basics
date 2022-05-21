@@ -85,7 +85,7 @@ namespace DataStructures
 
             // If duplicates exist, the last index of an item can be found using lastindexof method
             Console.WriteLine(clothes.LastIndexOf("Bermudas"));
-
+            
             // contains method can be used to see if an item exists in a list
             Console.WriteLine(clothes.Contains("Socks"));
 

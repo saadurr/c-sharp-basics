@@ -8,7 +8,7 @@ using System.Text;
  * 
  * Access complexity is O(n) - the entire list needs to be traversed
  * Search complexity is O(n) - searching requires traversing the entire list
- * Insert complexity is O(1) (if an index is given) because the next node is just to be added.
+ * Insert complexity is O(1) (if a node is given) because the next node is just to be added.
  * Delete complexity at a specific index i is O(i) because the list will need to be traversed until that point
  * Delete complexity if you need to search the element as well is O(n)
 */
